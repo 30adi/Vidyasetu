@@ -31,3 +31,6 @@ URL for admin portal: http://127.0.0.1:8000/asignin/
 Signin email: admin@gmail.com
 
 password: 123456
+
+Run the following command after above installations in the terminal:
+python manage.py runserver
