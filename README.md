@@ -23,3 +23,11 @@ Database: Firebase
 
 Installation Required:
 Libraries- intervaltree and Pyrebase4 module.
+
+Admin Signin: 
+
+URL for admin portal: http://127.0.0.1:8000/asignin/ 
+
+Signin email: admin@gmail.com
+
+password: 123456
