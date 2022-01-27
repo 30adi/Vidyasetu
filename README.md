@@ -34,3 +34,6 @@ password: 123456
 
 Run the following command after above installations in the terminal:
 python manage.py runserver
+
+
+If you want to run Student, Volunteer and admin, simultaneously, then you need to run them on different ports.
